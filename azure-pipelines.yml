@@ -15,4 +15,4 @@ steps:
 - script: mvn clean install
   displayName: 'Build with Maven'  
 - script: java -jar target/svitmavan-1.0-SNAPSHOT.jar
-  displayName: 'Running jar
+  displayName: 'Running jar'
